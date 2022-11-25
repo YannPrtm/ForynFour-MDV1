@@ -41,7 +41,7 @@ let d = new Date(new Date + 3600000)
 ╰─❒
 
 ╭─❒〘 *I N F O  D A T A* 〙
-├◌ *Version* : 4.4.1
+├◌ *Version* : 4.9.5
 ├◌ *Library* : Baileys-MD
 ├◌ *Language* : JavaScript
 ├◌ *Database* : MongoDB
@@ -67,8 +67,8 @@ let d = new Date(new Date + 3600000)
 	title: `INFORMATION ✦-------`,
 	rows: [
 	    {title: "📌 STATUS BOT", rowId: '.statusbot'},
-	    {title: "📌 SPEED", rowId: '.ping'},
-	{title: "📌 SEWA", rowId: '.sewa'},
+	    {title: "🚀 SPEED", rowId: '.ping'},
+	{title: "📑 SEWA", rowId: '.sewa'},
 	{title: "📌 DONASI", rowId: '.donasi'},
 	{title: "📌 MENU", rowId: '.menu'},
   ]},]

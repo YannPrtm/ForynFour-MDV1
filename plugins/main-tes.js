@@ -1,6 +1,6 @@
 let handler = async (m, { conn, text }) => {
     let name = m.fromMe ? conn.user : conn.contacts[m.sender]
-let krizyn = `TES TES NDAS MU BOTAK ðŸ¤ª`
+let krizyn = `BOT SUDAH AKTIF ?? ?¤ª`
 
 conn.sendBut( m.chat, krizyn, wm, `Menu`, `.menu`.trim(), m)
 let mentionedJid = [m.sender]
