@@ -3,35 +3,35 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['62895327934887'] 
+global.owner = ['6282252285143'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['62895327934887']
+global.kontak = ['6282252285143']
 
 //  INFO BOT 
-global.naown = 'KRIZYN OFC'
-global.noown = '62895327934887'
-global.namebot = 'FORYN FOUR'
-global.nobot = '6289502319715'
+global.naown = 'Ryan Aditya'
+global.noown = '6282252285144'
+global.namebot = 'ᬊᬁ 7Xcode-BOT'
+global.nobot = '62823504965321'
 
 //  URL SOSMED
-global.instagram = 'https://instagram.com/itskri99'
-global.github = 'https://github.com/krizynofc'
-global.gc = 'https://chat.whatsapp.com/HVyRaNWp18NKMAIHv8NjLP'
-global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.saweria = 'https://saweria.co/Kricom'
+global.instagram = 'https://instagram.com/7code_bot'
+global.github = 'https://github.com/YannPrtm'
+global.gc = 'https://chat.whatsapp.com/KHorlMi7ZwRHOZNlvxBC2M'
+global.web = 'https://lynk.id/7codebotz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.saweria = 'https://saweria.co/Ryannadt'
 
 // PAYMANT 
-global.dana = '081360482998'
-global.pulsa = '081360482998'
-global.gopay = '081360482998'
-global.shopay = '081360482998'
-global.ovo = '081360482998'
+global.dana = '082350496532'
+global.pulsa = '082350496532'
+global.gopay = '082252285143'
+global.shopay = '-'
+global.ovo = '082252285143'
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
-global.fotonya1 = 'https://telegra.ph/file/c58f43806ef4b7038a7f4.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/c58f43806ef4b7038a7f4.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/67150ff1a4b570b652652.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/5dd32055ed4285248d5da.jpg' //ini juga ganti 
 global.ppacc = 'https://telegra.ph/file/a077271ff372545599dbc.jpg'
 global.imgloc = 'https://telegra.ph/file/e6355ade20840c96814ed.jpg'
 global.media = 'https://telegra.ph/file/f209153a54698c43032f7.jpg'
@@ -47,17 +47,17 @@ global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 global.djson = 'application/json'
 
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/67150ff1a4b570b652652.jpg'
 
 // FAKE SIZE
 global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
 
 // WATERMARK  
-global.wm = 'ᬊᬁ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑'
+global.wm = 'ᬊᬁ 7Xcode-BOT'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙆𝙧𝙞𝙯𝙮𝙣𝙊𝙛𝙘'
-global.wm3 = '⫹⫺ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑 | BOT WHATSAPP MD'
+global.wm2 = '⫹⫺ Powered By Ryan : 082252285143'
+global.wm3 = '⫹⫺ ᬊᬁ 7Xcode-BOT | BOT WHATSAPP MD'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
 //  DEFAULT MENU  
@@ -104,8 +104,8 @@ global.salah = 'Salah ❌\n'
 
 // WATERMARK STICKER 
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'FORYN FOUR'
-global.author = 'By krizynOfc'
+global.packname = 'ᬊᬁ 7Xcode-BOT<<'
+global.author = 'By RyanAdityaPtrm'
 
 //  APIKEY ANDA 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v

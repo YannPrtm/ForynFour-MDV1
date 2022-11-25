@@ -808,7 +808,7 @@ let name = conn.getName(m.sender)
     
    // conn.sendBut(m.chat, msg, wm3, 'Menu', '.menu', m)
  let unreg = {
-  unreg: `┏━━━〔 ıll 𝐔𝐍𝐑𝐄𝐆𝐈𝐒𝐓𝐄𝐑 llı 〕━━㉿
+  unreg: `┏━━━〔 ıll UNRIGESTER llı 〕━━㉿
 ⬡ Hallo mypren👋, @${m.sender.split`@`[0]}
 ⬡ Sebelum melihat fitur bot, lebih baik register dulu
 ⬡ Kalau tidak kelihatan button nya, contohnya dibawah!
